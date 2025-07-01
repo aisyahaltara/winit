@@ -13,8 +13,8 @@ GreenCore adalah platform digital komunitas yang memungkinkan pengguna menukar b
 
 ## 🎬 Demo Video
 Durasi: 3 menit  
-YouTube:  
-🎥 [Demo Video GreenCore](https://youtu.be/X-QOmXrok5I)
+gdrive:  
+🎥 [Demo Video GreenCore](https://drive.google.com/drive/folders/17VuQniOmuAbUOzRUUyt-VhrpTa8q0jl1?usp=sharing)
 
 
 ## 👥 Tim Pengembang
